@@ -1,0 +1,33 @@
+{
+  "projectName": "PizzaOrderingSystem",
+  "projectOwner": "yuanjie8629",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "yuanjie8629",
+      "name": "Tan Yuan Jie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86699785?v=4",
+      "profile": "https://github.com/yuanjie8629",
+      "contributions": [
+        "a11y",
+        "code",
+        "data",
+        "design",
+        "doc",
+        "example",
+        "ideas",
+        "infra",
+        "research",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
